@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 Successfully cleaned and analyzed the dataset of the Tokyo Olympics, and Made some visualizations to
 make it easier to gain and extract insights.
 
@@ -30,3 +30,9 @@ make it easier to gain and extract insights.
 -  Total number of female athletes in each olympics
 -  How many participants over the age of 60 got the gold medal
 -  Top 5 countries with medals
+## Tools
+- Python
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
